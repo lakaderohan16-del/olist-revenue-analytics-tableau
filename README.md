@@ -5,6 +5,7 @@ SQL + Tableau Public analysis of the Olist Brazilian e-commerce dataset (2016-20
 **Live dashboards:** https://public.tableau.com/app/profile/rohan.lakade/viz/olist_dashboards/Executivesummary
 **Insights memo:** [Olist_Insights_Memo.pdf](Olist_Insights_Memo.pdf)
 
+
 ## Dashboards
 1. **Executive summary:** total GMV, delivered orders, on-time delivery, average order value, monthly GMV, top 10 states by GMV
 2. **Delivery and customers:** average delivery time, review score by delivery delay, late-delivery rate by state

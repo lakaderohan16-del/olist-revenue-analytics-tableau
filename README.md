@@ -20,6 +20,7 @@ SQL + Tableau Public analysis of the Olist Brazilian e-commerce dataset (2016-20
 - Top 10 categories account for about 62% of delivered GMV
 - Highest-rated large category: luggage_accessories (4.32). Lowest-rated: office_furniture (3.49)
 - Repeat customers: 2,801 of 93,358 (3.0%), identified by customer_unique_id
+- Seller concentration: the top 10 sellers account for 13.3% of delivered GMV and the top 100 account for 45.5% (2,970 sellers with delivered orders)
 
 ## Reconciliation: SQL vs Tableau
 | Metric | SQL | Tableau | Match |
